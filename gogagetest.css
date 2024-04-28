@@ -1,0 +1,394 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.isize1 {
+    height: 60px;
+    width: 60px;
+}
+
+.isize {
+    height: 40px;
+    width: 40px;
+}
+
+.mhh {
+    font-weight: bold;
+    color: #00008B;
+    font-size: 12px;
+    font-family: "Roboto";
+    width: 0px;
+    margin: 1px;
+
+}
+
+.mpp {
+    color: #00008B;
+    font-size: 12px;
+    font-family: "Roboto";
+}
+
+.bgm {
+    background-size: cover;
+    width: 100vw;
+    background-color: white;
+}
+
+.body {
+    margin: 0;
+    box-sizing: content-box;
+}
+
+.isize1 {
+    height: 60px;
+    width: 60px;
+}
+
+.isize {
+    height: 40px;
+    width: 40px;
+}
+
+.mhh {
+    font-weight: bold;
+    color: #00008B;
+    font-size: 12px;
+    font-family: "Roboto";
+    width: 0px;
+    margin: 1px;
+
+}
+
+.mpp {
+    color: #00008B;
+    font-size: 12px;
+    font-family: "Roboto";
+}
+
+.bgm {
+    background-size: cover;
+    width: 100vw;
+    background-color: white;
+    margin: 0 auto;
+}
+
+
+
+.bform {
+    color: #00008B;
+    font-weight: 500;
+    height: 35px;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+
+.tline {
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.vl {
+    border-left: 3px solid #00008B;
+    height: 45px;
+}
+
+.mg1 {
+    color: #00008B;
+    font-weight: 300;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.mdown {
+    color: #00008B;
+}
+
+.spam {
+    color: #00008B;
+    font-weight: bold;
+    height: 30px;
+    font-size: 40px;
+    font-family: "Roboto";
+
+}
+
+.bform {
+    color: #00008B;
+    font-weight: 500;
+    height: 35px;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+.spamdesc {
+    color: #00008B;
+    font-size: 13px;
+    font-weight: 300;
+
+}
+
+.vl {
+    border-left: 3px solid #00008B;
+    height: 45px;
+}
+
+.mg1 {
+    color: #00008B;
+    font-weight: 300;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.mdown {
+    color: #00008B;
+}
+
+.mheading {
+    color: #00008B;
+    font-weight: bold;
+    font-size: 35px;
+
+}
+
+.mpara {
+    color: #00008B;
+    font-size: 25px;
+}
+
+.innerblue {
+    background: linear-gradient(0deg, rgba(21, 49, 126, 1) 57%, rgba(60, 115, 168, 1) 100%);
+    height: 240px;
+    border-radius: 15px;
+    width: 95vw;
+    margin: 0 auto;
+    z-index: 1;
+    padding: 2.8rem !important;
+}
+
+
+.textl {
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 5px;
+}
+
+.textc {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.textr {
+    margin-right: 5px;
+    margin-top: 10px;
+    text-align: right;
+}
+
+.innerwhite {
+    border: 1px solid white;
+    height: 80px;
+    border-radius: 10px;
+    width: 28vw;
+
+}
+
+.mw1 {
+    color: white;
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 0px;
+}
+
+.mdark {
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.martin {
+    margin-left: 350px;
+    text-align: center;
+}
+
+.bg-container {
+    background-image: url("https://img.freepik.com/free-photo/beautiful-shot-mountains-trees-covered-snow-fog_181624-17590.jpg");
+    /* height: 100vh; */
+    background-size: cover;
+
+}
+
+.image {
+    height: 90px;
+    width: 140px;
+    margin-top: 10px;
+}
+
+.button-1 {
+    background-color: transparent;
+    border-width: 3px;
+    border-style: dotted;
+    border-radius: 5px;
+    border-color: grey;
+    height: 60px;
+    width: 70px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 150px;
+    color: navy blue;
+    font-weight: 600;
+    font-size: 18px;
+
+}
+
+.body {
+    width: 0px;
+    box-sizing: border-box;
+}
+
+.blk {
+    margin: 0 auto;
+    width: 800px;
+    z-index: 2;
+    position: relative;
+    top: 50px;
+}
+
+.white {
+    background-color: white;
+    border-radius: 15px;
+    height: 10%;
+    margin-bottom: 20px;
+    padding-bottom: 40px;
+}
+
+.whitehead {
+    color: black;
+    font-family: "Roboto";
+    font-size: 10px;
+    padding-right: 20px;
+}
+
+.bi {
+    height: 30px;
+    width: 30px;
+    color: black;
+}
+
+.fa {
+    height: 30px;
+    width: 30px;
+    color: black;
+}
+
+.minc {
+    background-color: #D3FCFF;
+    height: 40px;
+    border-radius: 12px;
+    width: 15%;
+}
+
+.image-1 {
+    height: 30px;
+    width: 40px;
+}
+
+.button-2 {
+    background-color: transparent;
+    border-width: 3px;
+    border-style: dotted;
+    border-radius: 5px;
+    border-color: grey;
+    height: 60px;
+    width: 70px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 7px;
+    font-weight: 600;
+}
+
+.textz {
+    height: 200px;
+    text-align: center;
+    position: relative;
+
+
+}
+
+.button-3 {
+    background-color: transparent;
+    border-width: 3px;
+    border-style: dotted;
+    border-radius: 5px;
+    border-color: grey;
+    height: 60px;
+    width: 160px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 7px;
+}
+
+.button-head {
+    font-weight: 500px;
+    color: navy blue;
+    font-size: 20px;
+}
+
+.button-4 {
+    background: linear-gradient(0deg, rgba(21, 49, 126, 1) 57%, rgba(60, 115, 168, 1) 100%);
+    border-width: 3px;
+    border-style: dotted;
+    border-radius: 5px;
+    border-color: grey;
+    height: 60px;
+    width: 230px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 7px;
+}
+
+.diamond-card {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.icon {
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.icon-1 {
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+    color: white;
+    margin-left: 5px;
+}
+
+.button-head-1 {
+    font-weight: 500px;
+    color: navy blue;
+    font-size: 24px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.paragraph {
+    font-size: 16px;
+}
+
+.button-5 {
+    background-color: transparent;
+    border-width: 3px;
+    border-style: dotted;
+    border-radius: 5px;
+    border-color: grey;
+    height: 60px;
+    width: 230px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 7px;
+}
